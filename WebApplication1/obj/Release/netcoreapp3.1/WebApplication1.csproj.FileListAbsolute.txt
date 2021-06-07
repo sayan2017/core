@@ -35,3 +35,9 @@ E:\ANGULAR_PROJECTS\cicd\WebApplication1\obj\Release\netcoreapp3.1\WebApplicatio
 E:\ANGULAR_PROJECTS\cicd\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
 E:\ANGULAR_PROJECTS\cicd\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 E:\ANGULAR_PROJECTS\cicd\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ANGULAR_PROJECTS\cicd\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
